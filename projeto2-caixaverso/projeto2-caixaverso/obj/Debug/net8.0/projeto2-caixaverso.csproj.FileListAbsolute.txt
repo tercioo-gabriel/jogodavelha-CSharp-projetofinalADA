@@ -1,0 +1,15 @@
+C:\Users\terci\source\repos\projeto2-caixaverso\projeto2-caixaverso\obj\Debug\net8.0\projeto2-caixaverso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\terci\source\repos\projeto2-caixaverso\projeto2-caixaverso\obj\Debug\net8.0\projeto2-caixaverso.AssemblyInfoInputs.cache
+C:\Users\terci\source\repos\projeto2-caixaverso\projeto2-caixaverso\obj\Debug\net8.0\projeto2-caixaverso.AssemblyInfo.cs
+C:\Users\terci\source\repos\projeto2-caixaverso\projeto2-caixaverso\obj\Debug\net8.0\projeto2-caixaverso.csproj.CoreCompileInputs.cache
+C:\Users\terci\source\repos\projeto2-caixaverso\projeto2-caixaverso\obj\Debug\net8.0\projeto2-caixaverso.sourcelink.json
+C:\Users\terci\source\repos\projeto2-caixaverso\projeto2-caixaverso\bin\Debug\net8.0\projeto2-caixaverso.exe
+C:\Users\terci\source\repos\projeto2-caixaverso\projeto2-caixaverso\bin\Debug\net8.0\projeto2-caixaverso.deps.json
+C:\Users\terci\source\repos\projeto2-caixaverso\projeto2-caixaverso\bin\Debug\net8.0\projeto2-caixaverso.runtimeconfig.json
+C:\Users\terci\source\repos\projeto2-caixaverso\projeto2-caixaverso\bin\Debug\net8.0\projeto2-caixaverso.dll
+C:\Users\terci\source\repos\projeto2-caixaverso\projeto2-caixaverso\bin\Debug\net8.0\projeto2-caixaverso.pdb
+C:\Users\terci\source\repos\projeto2-caixaverso\projeto2-caixaverso\obj\Debug\net8.0\projeto2-caixaverso.dll
+C:\Users\terci\source\repos\projeto2-caixaverso\projeto2-caixaverso\obj\Debug\net8.0\refint\projeto2-caixaverso.dll
+C:\Users\terci\source\repos\projeto2-caixaverso\projeto2-caixaverso\obj\Debug\net8.0\projeto2-caixaverso.pdb
+C:\Users\terci\source\repos\projeto2-caixaverso\projeto2-caixaverso\obj\Debug\net8.0\projeto2-caixaverso.genruntimeconfig.cache
+C:\Users\terci\source\repos\projeto2-caixaverso\projeto2-caixaverso\obj\Debug\net8.0\ref\projeto2-caixaverso.dll
